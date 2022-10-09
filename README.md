@@ -1,1 +1,2 @@
 # Random-Color
+learning JavaScript
